@@ -1,1 +1,2 @@
 Testing another file to see if it can be pushed without authentication on terminal
+changing text afterward logging out of terminal
