@@ -1,4 +1,9 @@
 Testing another file to see if it can be pushed without authentication on terminal
 changing text afterward logging out of terminal
 
+# cloning git repository 
+git clone https://takahashy/testGit
 
+# committing git file
+git commit -m "message"
+git 
