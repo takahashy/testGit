@@ -1,0 +1,16 @@
+[
+    {
+        "text": "Hello World!",
+        "color": "rgb(255,0,0)"
+    },
+
+    {
+        "text": "Sekaihe Konnnichiha!",
+        "color": "rgb(0,255,0)"
+    },
+
+    {
+        "text": "Hola Mundo!",
+        "color": "rgb(0,0,255)"
+    }
+]
